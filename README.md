@@ -6,7 +6,7 @@
 
 - Computer Science Student at [Universidade Federal de Campina Grande](https://www.computacao.ufcg.edu.br/) 📚
 
-- Junior Backend Software Developer at [@ED](https://www.linkedin.com/company/somosed/) 💻
+- Fullstack Software Developer at [@Trinks](https://negocios.trinks.com/) 💻
   
 <br>
 
